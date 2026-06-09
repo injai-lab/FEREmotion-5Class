@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FEREmotion</string>
+    <string name="selfie_ready">5-class model is ready. Align your face inside the guide box.</string>
+</resources>
